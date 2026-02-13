@@ -16,6 +16,7 @@
 ```bash
 apt update 
 apt upgrade 
+apt install ffmpeg
 pip install django yt-dlp
 python manage.py runserver
 ```
